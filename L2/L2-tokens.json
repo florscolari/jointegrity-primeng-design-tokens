@@ -21996,6 +21996,32 @@
               }
             }
           }
+        },
+        "padding": {
+          "item": {
+            "x": {
+              "$type": "spacing",
+              "$value": "0.75rem"
+            },
+            "y": {
+              "$type": "spacing",
+              "$value": "0.5rem"
+            }
+          }
+        }
+      },
+      "companyplantswitcher": {
+        "padding": {
+          "md": {
+            "$type": "sizing",
+            "$value": "0.75rem 1.25rem",
+            "$description": "for company thumbnail when sidebar open"
+          },
+          "sm": {
+            "$type": "sizing",
+            "$value": "0.5rem 1.25rem",
+            "$description": "for company thumbnail when sidebar closed"
+          }
         }
       }
     }
