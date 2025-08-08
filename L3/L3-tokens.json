@@ -21994,11 +21994,6 @@
                 "$type": "color",
                 "$value": "{primary.active.color}"
               }
-            },
-            "message": {
-              "$type": "color",
-              "$value": "#",
-              "$description": "commit"
             }
           }
         }
