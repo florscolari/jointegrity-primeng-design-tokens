@@ -10267,6 +10267,14 @@
               "$value": "{navigation.item.icon.focus.color}"
             }
           }
+        },
+        "active": {
+          "border": {
+            "color": {
+              "$type": "color",
+              "$value": "{custom.menu.item.active.border.color}"
+            }
+          }
         }
       },
       "submenu": {
@@ -21974,6 +21982,18 @@
             "color": {
               "$type": "color",
               "$value": "{surface.700}"
+            }
+          }
+        }
+      },
+      "menu": {
+        "item": {
+          "active": {
+            "border": {
+              "color": {
+                "$type": "color",
+                "$value": "{primary.active.color}"
+              }
             }
           }
         }
