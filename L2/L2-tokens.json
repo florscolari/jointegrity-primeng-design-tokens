@@ -22023,6 +22023,66 @@
             "$description": "for company thumbnail when sidebar closed"
           }
         }
+      },
+      "sidebar": {
+        "background": {
+          "$type": "color",
+          "$value": "{surface.800}"
+        },
+        "border": {
+          "color": {
+            "$type": "color",
+            "$value": "#"
+          }
+        }
+      },
+      "surface": {
+        "primary": {
+          "50": {
+            "$type": "color",
+            "$value": "{primary.50}"
+          },
+          "100": {
+            "$type": "color",
+            "$value": "{primary.100}"
+          },
+          "200": {
+            "$type": "color",
+            "$value": "{primary.200}"
+          },
+          "300": {
+            "$type": "color",
+            "$value": "{primary.300}"
+          },
+          "400": {
+            "$type": "color",
+            "$value": "{primary.400}"
+          },
+          "500": {
+            "$type": "color",
+            "$value": "{primary.500}"
+          },
+          "600": {
+            "$type": "color",
+            "$value": "{primary.600}"
+          },
+          "700": {
+            "$type": "color",
+            "$value": "{primary.700}"
+          },
+          "800": {
+            "$type": "color",
+            "$value": "{primary.800}"
+          },
+          "900": {
+            "$type": "color",
+            "$value": "{primary.900}"
+          },
+          "950": {
+            "$type": "color",
+            "$value": "{primary.950}"
+          }
+        }
       }
     }
   },
