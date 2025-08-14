@@ -22027,12 +22027,12 @@
       "sidebar": {
         "background": {
           "$type": "color",
-          "$value": "{surface.800}"
+          "$value": "{custom.surface.primary.800}"
         },
         "border": {
           "color": {
             "$type": "color",
-            "$value": "#"
+            "$value": "{custom.surface.primary.800}"
           }
         }
       },
