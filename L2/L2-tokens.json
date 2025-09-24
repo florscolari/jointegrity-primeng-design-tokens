@@ -22156,6 +22156,22 @@
     "font-bold": {
       "$type": "fontWeights",
       "$value": "700"
+    },
+    "line-height-1": {
+      "$type": "lineHeights",
+      "$value": "100"
+    },
+    "line-height-2": {
+      "$type": "lineHeights",
+      "$value": "125"
+    },
+    "line-height-3": {
+      "$type": "lineHeights",
+      "$value": "150"
+    },
+    "line-height-4": {
+      "$type": "lineHeights",
+      "$value": "200"
     }
   },
   "$themes": [
