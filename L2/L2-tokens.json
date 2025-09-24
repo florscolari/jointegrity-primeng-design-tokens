@@ -22084,6 +22084,54 @@
           }
         }
       }
+    },
+    "text-xs": {
+      "$type": "fontSizes",
+      "$value": "0.75"
+    },
+    "text-sm": {
+      "$type": "fontSizes",
+      "$value": "0.875"
+    },
+    "text-base": {
+      "$type": "fontSizes",
+      "$value": "1"
+    },
+    "text-lg": {
+      "$type": "fontSizes",
+      "$value": "1.125"
+    },
+    "text-xl": {
+      "$type": "fontSizes",
+      "$value": "1.25"
+    },
+    "text-2xl": {
+      "$type": "fontSizes",
+      "$value": "1.5"
+    },
+    "text-3xl": {
+      "$type": "fontSizes",
+      "$value": "1.75"
+    },
+    "text-4xl": {
+      "$type": "fontSizes",
+      "$value": "2"
+    },
+    "text-5xl": {
+      "$type": "fontSizes",
+      "$value": "2.5"
+    },
+    "text-6xl": {
+      "$type": "fontSizes",
+      "$value": "3"
+    },
+    "text-7xl": {
+      "$type": "fontSizes",
+      "$value": "4"
+    },
+    "text-8xl": {
+      "$type": "fontSizes",
+      "$value": "6"
     }
   },
   "$themes": [
