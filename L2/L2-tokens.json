@@ -22132,6 +22132,30 @@
     "text-8xl": {
       "$type": "fontSizes",
       "$value": "6"
+    },
+    "font-family": {
+      "$type": "fontFamilies",
+      "$value": "Inter"
+    },
+    "font-light": {
+      "$type": "fontWeights",
+      "$value": "300"
+    },
+    "font-normal": {
+      "$type": "fontWeights",
+      "$value": "400"
+    },
+    "font-medium": {
+      "$type": "fontWeights",
+      "$value": "500"
+    },
+    "font-semibold": {
+      "$type": "fontWeights",
+      "$value": "600"
+    },
+    "font-bold": {
+      "$type": "fontWeights",
+      "$value": "700"
     }
   },
   "$themes": [
