@@ -22091,6 +22091,10 @@
         }
       }
     },
+    "text-2xs": {
+      "$type": "fontSizes",
+      "$value": "0.65rem"
+    },
     "text-xs": {
       "$type": "fontSizes",
       "$value": "0.75rem"
@@ -22186,6 +22190,80 @@
         "fontWeight": "{font-bold}",
         "fontSize": "{text-4xl}",
         "lineHeight": "{line-height-1}"
+      }
+    },
+    "h2": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font-family}",
+        "fontWeight": "{font-semibold}",
+        "fontSize": "{text-3xl}",
+        "lineHeight": "{line-height-2}"
+      }
+    },
+    "h3": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font-family}",
+        "fontWeight": "{font-semibold}",
+        "fontSize": "{text-2xl}",
+        "lineHeight": "{line-height-2}"
+      }
+    },
+    "h4": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font-family}",
+        "fontWeight": "{font-semibold}",
+        "fontSize": "{text-xl}",
+        "lineHeight": "{line-height-2}"
+      }
+    },
+    "h5": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font-family}",
+        "fontWeight": "{font-semibold}",
+        "fontSize": "{text-lg}",
+        "lineHeight": "{line-height-2}"
+      }
+    },
+    "body": {
+      "base": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family}",
+          "fontWeight": "{font-normal}",
+          "fontSize": "{text-base}",
+          "lineHeight": "{line-height-4}"
+        }
+      },
+      "small": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family}",
+          "fontWeight": "{font-normal}",
+          "fontSize": "{text-sm}",
+          "lineHeight": "{line-height-3}"
+        }
+      }
+    },
+    "micro": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font-family}",
+        "fontWeight": "{font-medium}",
+        "fontSize": "{text-xs}",
+        "lineHeight": "{line-height-3}"
+      }
+    },
+    "nano": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font-family}",
+        "fontWeight": "{font-medium}",
+        "fontSize": "{text-2xs}",
+        "lineHeight": "{line-height-3}"
       }
     }
   },
