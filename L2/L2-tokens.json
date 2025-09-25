@@ -22083,55 +22083,61 @@
             "$value": "{primary.950}"
           }
         }
+      },
+      "heading": {
+        "color": {
+          "$type": "color",
+          "$value": "{slate.800}"
+        }
       }
     },
     "text-xs": {
       "$type": "fontSizes",
-      "$value": "0.75"
+      "$value": "0.75rem"
     },
     "text-sm": {
       "$type": "fontSizes",
-      "$value": "0.875"
+      "$value": "0.875rem"
     },
     "text-base": {
       "$type": "fontSizes",
-      "$value": "1"
+      "$value": "1rem"
     },
     "text-lg": {
       "$type": "fontSizes",
-      "$value": "1.125"
+      "$value": "1.125rem"
     },
     "text-xl": {
       "$type": "fontSizes",
-      "$value": "1.25"
+      "$value": "1.25rem"
     },
     "text-2xl": {
       "$type": "fontSizes",
-      "$value": "1.5"
+      "$value": "1.5rem"
     },
     "text-3xl": {
       "$type": "fontSizes",
-      "$value": "1.75"
+      "$value": "1.75rem"
     },
     "text-4xl": {
       "$type": "fontSizes",
-      "$value": "2"
+      "$value": "2rem"
     },
     "text-5xl": {
       "$type": "fontSizes",
-      "$value": "2.5"
+      "$value": "2.5rem"
     },
     "text-6xl": {
       "$type": "fontSizes",
-      "$value": "3"
+      "$value": "3rem"
     },
     "text-7xl": {
       "$type": "fontSizes",
-      "$value": "4"
+      "$value": "4rem"
     },
     "text-8xl": {
       "$type": "fontSizes",
-      "$value": "6"
+      "$value": "6rem"
     },
     "font-family": {
       "$type": "fontFamilies",
@@ -22159,19 +22165,28 @@
     },
     "line-height-1": {
       "$type": "lineHeights",
-      "$value": "100"
+      "$value": "1.15"
     },
     "line-height-2": {
       "$type": "lineHeights",
-      "$value": "125"
+      "$value": "1.2"
     },
     "line-height-3": {
       "$type": "lineHeights",
-      "$value": "150"
+      "$value": "1.35"
     },
     "line-height-4": {
       "$type": "lineHeights",
-      "$value": "200"
+      "$value": "1.4"
+    },
+    "h1": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font-family}",
+        "fontWeight": "{font-bold}",
+        "fontSize": "{text-4xl}",
+        "lineHeight": "{line-height-1}"
+      }
     }
   },
   "$themes": [
