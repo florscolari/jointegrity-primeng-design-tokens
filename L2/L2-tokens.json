@@ -22265,6 +22265,17 @@
         "fontSize": "{text-2xs}",
         "lineHeight": "{line-height-3}"
       }
+    },
+    "label": {
+      "inputfield": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font-family}",
+          "fontWeight": "{font-normal}",
+          "fontSize": "{text-base}",
+          "lineHeight": "{line-height-2}"
+        }
+      }
     }
   },
   "$themes": [
