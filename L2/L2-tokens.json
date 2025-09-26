@@ -22089,6 +22089,38 @@
           "$type": "color",
           "$value": "{slate.800}"
         }
+      },
+      "spacing-2xs": {
+        "$type": "spacing",
+        "$value": "0.25rem"
+      },
+      "spacing-xs": {
+        "$type": "spacing",
+        "$value": "0.5rem"
+      },
+      "spacing-sm": {
+        "$type": "spacing",
+        "$value": "0.75rem"
+      },
+      "spacing-md": {
+        "$type": "spacing",
+        "$value": "1rem"
+      },
+      "spacing-lg": {
+        "$type": "spacing",
+        "$value": "1.5rem"
+      },
+      "spacing-xl": {
+        "$type": "spacing",
+        "$value": "2rem"
+      },
+      "spacing-2xl": {
+        "$type": "spacing",
+        "$value": "3rem"
+      },
+      "spacing-3xl": {
+        "$type": "spacing",
+        "$value": "4rem"
       }
     },
     "text-2xs": {
