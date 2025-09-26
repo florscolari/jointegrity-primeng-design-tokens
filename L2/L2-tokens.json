@@ -22275,6 +22275,17 @@
           "fontSize": "{text-base}",
           "lineHeight": "{line-height-2}"
         }
+      },
+      "small": {
+        "inputfield": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{font-family}",
+            "fontWeight": "{font-normal}",
+            "fontSize": "{text-xs}",
+            "lineHeight": "{line-height-2}"
+          }
+        }
       }
     }
   },
