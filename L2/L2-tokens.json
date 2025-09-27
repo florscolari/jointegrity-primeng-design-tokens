@@ -22299,7 +22299,7 @@
       }
     },
     "label": {
-      "inputfield": {
+      "inputtext": {
         "$type": "typography",
         "$value": {
           "fontFamily": "{font-family}",
@@ -22309,7 +22309,7 @@
         }
       },
       "small": {
-        "inputfield": {
+        "inputtext": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{font-family}",
