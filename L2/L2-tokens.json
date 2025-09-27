@@ -22121,6 +22121,32 @@
       "spacing-3xl": {
         "$type": "spacing",
         "$value": "4rem"
+      },
+      "topbar": {
+        "padding": {
+          "x": {
+            "$type": "spacing",
+            "$value": "{custom.spacing-sm}"
+          },
+          "y": {
+            "$type": "spacing",
+            "$value": "{custom.spacing-xs}"
+          }
+        }
+      },
+      "menubar": {
+        "item": {
+          "padding": {
+            "x": {
+              "$type": "spacing",
+              "$value": "{custom.spacing-sm}"
+            },
+            "y": {
+              "$type": "spacing",
+              "$value": "{custom.spacing-xs}"
+            }
+          }
+        }
       }
     },
     "text-2xs": {
