@@ -21995,10 +21995,8 @@
                 "$value": "{primary.active.color}"
               }
             }
-          }
-        },
-        "padding": {
-          "item": {
+          },
+          "padding": {
             "x": {
               "$type": "spacing",
               "$value": "0.75rem"
@@ -22007,7 +22005,27 @@
               "$type": "spacing",
               "$value": "0.5rem"
             }
+          },
+          "icon": {
+            "padding": {
+              "x": {
+                "$type": "spacing",
+                "$value": "{custom.spacing-2xs}"
+              },
+              "y": {
+                "$type": "spacing",
+                "$value": "{custom.spacing-xs}"
+              }
+            },
+            "gap": {
+              "$type": "spacing",
+              "$value": "{custom.spacing-xs}"
+            }
           }
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{custom.spacing-xs}"
         }
       },
       "sidebar": {
