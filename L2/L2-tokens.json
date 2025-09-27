@@ -22010,20 +22010,6 @@
           }
         }
       },
-      "companyplantswitcher": {
-        "padding": {
-          "md": {
-            "$type": "sizing",
-            "$value": "0.75rem 1.25rem",
-            "$description": "for company thumbnail when sidebar open"
-          },
-          "sm": {
-            "$type": "sizing",
-            "$value": "0.5rem 1.25rem",
-            "$description": "for company thumbnail when sidebar closed"
-          }
-        }
-      },
       "sidebar": {
         "background": {
           "$type": "color",
@@ -22108,17 +22094,21 @@
       },
       "spacing-lg": {
         "$type": "spacing",
-        "$value": "1.5rem"
+        "$value": "1.25rem"
       },
       "spacing-xl": {
         "$type": "spacing",
-        "$value": "2rem"
+        "$value": "1.5rem"
       },
       "spacing-2xl": {
         "$type": "spacing",
-        "$value": "3rem"
+        "$value": "2rem"
       },
       "spacing-3xl": {
+        "$type": "spacing",
+        "$value": "3rem"
+      },
+      "spacing-4xl": {
         "$type": "spacing",
         "$value": "4rem"
       },
@@ -22145,6 +22135,44 @@
               "$type": "spacing",
               "$value": "{custom.spacing-xs}"
             }
+          }
+        }
+      },
+      "companyplantswitcher": {
+        "md": {
+          "x": {
+            "$type": "spacing",
+            "$value": "{custom.spacing-sm}"
+          },
+          "y": {
+            "$type": "spacing",
+            "$value": "{custom.spacing-lg}"
+          }
+        },
+        "sm": {
+          "x": {
+            "$type": "spacing",
+            "$value": "{custom.spacing-xs}"
+          },
+          "y": {
+            "$type": "spacing",
+            "$value": "{custom.spacing-lg}"
+          }
+        },
+        "gap": {
+          "$type": "spacing",
+          "$value": "{custom.spacing-xs}"
+        }
+      },
+      "tooltip": {
+        "padding": {
+          "x": {
+            "$type": "spacing",
+            "$value": "{custom.spacing-sm}"
+          },
+          "y": {
+            "$type": "spacing",
+            "$value": "{custom.spacing-xs}"
           }
         }
       }
