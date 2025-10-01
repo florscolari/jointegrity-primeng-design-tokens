@@ -5481,7 +5481,7 @@
     "breadcrumb": {
       "padding": {
         "$type": "spacing",
-        "$value": "1rem"
+        "$value": "0rem"
       },
       "background": {
         "$type": "color",
