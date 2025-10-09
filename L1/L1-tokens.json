@@ -1567,7 +1567,7 @@
     "mask": {
       "background": {
         "$type": "color",
-        "$value": "rgba(0,0,0,0.4)"
+        "$value": "rgba(0,0,0,0.25)"
       },
       "color": {
         "$type": "color",
