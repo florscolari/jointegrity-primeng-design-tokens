@@ -16643,19 +16643,6 @@
     },
     "message": {
       "info": {
-        "background": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.95",
-                "space": "srgb"
-              }
-            }
-          },
-          "$type": "color",
-          "$value": "{blue.50}"
-        },
         "border": {
           "color": {
             "$type": "color",
@@ -16723,6 +16710,10 @@
             "$type": "color",
             "$value": "{blue.600}"
           }
+        },
+        "background": {
+          "$type": "color",
+          "$value": "{blue.50}"
         }
       },
       "figma": {
@@ -17004,19 +16995,6 @@
         }
       },
       "success": {
-        "background": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.95",
-                "space": "srgb"
-              }
-            }
-          },
-          "$type": "color",
-          "$value": "{green.50}"
-        },
         "border": {
           "color": {
             "$type": "color",
@@ -17025,7 +17003,7 @@
         },
         "color": {
           "$type": "color",
-          "$value": "{green.600}"
+          "$value": "{green.700}"
         },
         "shadow": {
           "$type": "boxShadow",
@@ -17084,22 +17062,13 @@
             "$type": "color",
             "$value": "{green.600}"
           }
+        },
+        "background": {
+          "$type": "color",
+          "$value": "{green.50}"
         }
       },
       "warn": {
-        "background": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.95",
-                "space": "srgb"
-              }
-            }
-          },
-          "$type": "color",
-          "$value": "{yellow.50}"
-        },
         "border": {
           "color": {
             "$type": "color",
@@ -17148,7 +17117,7 @@
         },
         "color": {
           "$type": "color",
-          "$value": "{yellow.600}"
+          "$value": "{yellow.700}"
         },
         "outlined": {
           "color": {
@@ -17167,22 +17136,13 @@
             "$type": "color",
             "$value": "{yellow.600}"
           }
+        },
+        "background": {
+          "$type": "color",
+          "$value": "{yellow.50}"
         }
       },
       "error": {
-        "background": {
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.95",
-                "space": "srgb"
-              }
-            }
-          },
-          "$type": "color",
-          "$value": "{red.50}"
-        },
         "border": {
           "color": {
             "$type": "color",
@@ -17191,7 +17151,7 @@
         },
         "color": {
           "$type": "color",
-          "$value": "{red.600}"
+          "$value": "{red.700}"
         },
         "close": {
           "button": {
@@ -17250,6 +17210,10 @@
             "$type": "color",
             "$value": "{red.600}"
           }
+        },
+        "background": {
+          "$type": "color",
+          "$value": "{red.50}"
         }
       },
       "secondary": {
@@ -22335,21 +22299,17 @@
         "carousel.indicator.active.background": "5f868a0f35dfa2eea482eb6645217abd030cd367",
         "treetable.border.color": "4490404a3ab7736f6d852a4ad215f642c416d5f4",
         "treetable.body.cell.selected.border.color": "aa401e1c9ba8affbb62ee9b0287363dd6a7b2fb0",
-        "message.info.background": "e6500a1fc57afd61deb1089575d5c6420fe5f600",
         "message.info.border.color": "595a60ef9b19734bb7ca6581fd4698caf6d5fd39",
         "message.info.color": "f766692941787014cf6ce3faf3917aba5f84094b",
         "message.info.close.button.hover.background": "82af140935b7e5dd648a244e47b12152595fecff",
         "message.info.close.button.focus.ring.color": "fb3005e19175adfcfefe03a3e190413a3a31e1e1",
-        "message.success.background": "48d098d5ef5bfa4361d669171f2737a558b178c1",
         "message.success.border.color": "e0ec190b5b64b9f8d40a540f8a92ca637b489e39",
         "message.success.color": "6a99dc7fc3bed0c3bf490d77203ac5ca5c4048cf",
         "message.success.close.button.hover.background": "c7c18e52f7baf535e2c501ef00b125c7070b4a3b",
         "message.success.close.button.focus.ring.color": "ed21a04ccb16a5f26cd376caccd29a5edca77de8",
-        "message.warn.background": "d0ed28f3a079c319680ea9c566a97a7ef0bc7232",
         "message.warn.border.color": "c8aebfd14c257b5af571556fc40a2e33a0ab351a",
         "message.warn.close.button.hover.background": "44815cf550b35cfd7b99cc4f5ff0e6362e1585d7",
         "message.warn.close.button.focus.ring.color": "add528b9e87198abcd25f8c86dcbd4b51158a664",
-        "message.error.background": "71f1312520896e67fb7ecc95065c966e173bab8b",
         "message.error.border.color": "35c27289e3e687bd19c7c51d927c08a35f857a99",
         "message.error.color": "bfb5d25d442eaa1b578011976a2642015fbf12a9",
         "message.error.close.button.hover.background": "ea3e0277fab3125650867a226f625deb10fdab1b",
