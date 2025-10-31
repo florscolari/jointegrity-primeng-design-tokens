@@ -22200,6 +22200,28 @@
             "$type": "color",
             "$value": "#0E4979",
             "$description": "Jointegrity main blue"
+          },
+          "orange": {
+            "$type": "color",
+            "$value": "#ff7f17",
+            "$description": "Jointegrity main orange"
+          },
+          "dark-blue": {
+            "$type": "color",
+            "$value": "#0e2549",
+            "$description": "Jointegrity dark blue for shades"
+          },
+          "white": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "gray": {
+            "$type": "color",
+            "$value": "#bebebe"
+          },
+          "black": {
+            "$type": "color",
+            "$value": "#000000"
           }
         }
       }
