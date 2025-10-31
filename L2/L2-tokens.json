@@ -22193,6 +22193,15 @@
             "$value": "{custom.spacing-xs}"
           }
         }
+      },
+      "brand": {
+        "jointegrity": {
+          "color": {
+            "$type": "color",
+            "$value": "#0E4979",
+            "$description": "Jointegrity main blue"
+          }
+        }
       }
     },
     "text-2xs": {
